@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  ThreadLearning
 //
-//  Created by 潘天乡 on 29/05/2018.
+//  Created by PTX on 29/05/2018.
 //  Copyright © 2018 PTX. All rights reserved.
 //
 
